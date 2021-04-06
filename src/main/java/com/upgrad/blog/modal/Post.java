@@ -24,6 +24,7 @@ public class Post {
         this.date = date;
     }
 
+
     public Integer getId() {
         return id;
     }
